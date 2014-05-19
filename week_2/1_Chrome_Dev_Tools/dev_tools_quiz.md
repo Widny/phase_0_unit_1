@@ -5,10 +5,14 @@
 ##QUIZ
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS 
+    Answer: Elements tab 
   * Javascript Debugging
-  * Performance Optimization 
+    Answer: Sources tab 
+  * Performance Optimization
+    Answer: Network tab
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
+  Answer: ALT + Command + "I" 
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
