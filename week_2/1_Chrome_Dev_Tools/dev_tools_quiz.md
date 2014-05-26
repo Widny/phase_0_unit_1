@@ -1,5 +1,5 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
-
+Screenshot 2014-05-26 03.50.09.png
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
 ##QUIZ
