@@ -23,9 +23,15 @@
   * Upload your own image to the imgs directory in the `1_Chrome_Dev_Tools` directory.  It should match the image above. The last nav link in the image above is black because the mouse was hovering there when the screenshot was taken. Do the same, and don't take a screenshot of your whole desktop, just the browser window. (This is part of the challenge.)
 
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
+   - Answer: It appears to be a background image.
 
 * Go to www.ticketswizard.com and analyze the page.  
   * What is the largest image on the website? 
-  * Explain how you would find out this information, and list the URL of offending image here and how big it is.
+     Answer: the largets image is on the featured events container. It is the one with information regarding theatre shows. 
+  * Explain how you would find out this information, and list the URL of offending image here and how big it is. 
+     Answer: You go into the network tabs on chrome dev tools. to make it easire to identify whhich is the largest file you can click on size so that it displays from largest to smallest. you can click on the - /images/Catalog which gives you more information about the file and also show you a picture of the file.
+
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the easiest thing to change to optimize the website?  How many kilobytes of data can be eliminated?
+
+Answer: It appears the easiest thing to change is to optimize the images by properly formatting and compressing images. according to Pagespeed if we optimize the images will reduce their size  by 885.9Kib.  
