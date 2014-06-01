@@ -1,21 +1,25 @@
-// I paired [by myself, with:] on this challenge.
+// I worked by myself on this challenge.
 
 // __________________________________________
 // Write your code below.
 
 
-
-
-
-
+var secretNumber = 7;
+var password = “just open the door”
+var allowedIn = false
+var members = [“John”, “Jacob”. “Matthew”, “Mary”]
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
+// Although I still have some trouble with the whole concept of javascript. 
+// i was able to go through this challenge ok. at first, i was a little lost but then realized I was 
+// supposed to test each code. 
 // 
+// I am still not very confident with Javascript. I will go the codecademy track and perhaps treehouse as well to
+// help me with this concept. 
 // 
-// 
-// 
+// i learned how to test code. However, i wish I had paired with someone as it would have been great practice. 
 // 
 // 
 
