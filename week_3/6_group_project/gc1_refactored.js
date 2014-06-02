@@ -62,3 +62,10 @@ function med(){
 // Here is my part of the challenge:
 
 I could not come up with any other ways to refactor the code.
+
+
+//Reflection
+
+//I had trouble with this assignment. I need to practice javascript a little more. Was unable to refactor.
+//Appears that the previous person had some experience with javascript. It was a  little difficule for em to
+//undertand. 
