@@ -67,9 +67,10 @@ This command allows you to check the status of your repository. You are able to 
 	3. type git init. this will initialize or reinitialize the file
 	4. type git status. This will show that you have an untracked file that 
 	   needs to be committed
-	5. type git commit -m “Type a message about this commit” 
-	6. type git remote -v. 
-	7. type git push 
+	5. type git add
+	6. type git commit -m “Type a message about this commit” 
+	7. type git remote -v. 
+	8. type git push 
 
 - Fetch changes:
  	1. git remote -v to list the current remote
